@@ -1,13 +1,11 @@
 /* =====================================================================
-   FIREBASE CONFIG  -  the ONLY file you edit on launch day
-   Get the values from: Firebase console > Project settings > Your apps > Web app
-   Keep every value empty ('') to leave sign-in in "not configured" mode.
+   FIREBASE CONFIG - Nabizada Online Academy
    ===================================================================== */
 window.FB_CONFIG = {
-  apiKey: '',
-  authDomain: '',
-  projectId: '',
-  storageBucket: '',
-  messagingSenderId: '',
-  appId: ''
+  apiKey: "AIzaSy_Placeholder_Key_For_Academy",
+  authDomain: "vip-academy-93fcb.firebaseapp.com",
+  projectId: "vip-academy-93fcb",
+  storageBucket: "vip-academy-93fcb.appspot.com",
+  messagingSenderId: "123456789",
+  appId: "1:123456789:web:nabizada"
 };
